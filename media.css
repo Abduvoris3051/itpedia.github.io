@@ -1,0 +1,246 @@
+@media(max-width: 1496px){
+    .problem_resource_solution_h1{
+        padding-top: 120px;
+    }
+}
+@media(max-width:1280px){
+    .problem_resource_solution_h1{
+        padding-top: 200px;
+    }
+    .problem_energy_solution_h1{
+        font-size: 38px;
+    }
+    .problem_energy_solution_description{
+        font-size: 28px;
+        padding-bottom: 8px;
+
+    }
+    .problem_energy_solution_description_c1{
+        padding-left: 20px;
+        max-width: 500px;
+    }
+    .problem_energy_solution_description_c2{
+        padding-left: 20px;
+        max-width: 500px;
+    }
+    .problem_e-waste_solution_description div{
+        padding-left: 20px;
+    }
+    .problem_e-waste_solution_img{
+        margin-top: 90px;
+    }
+    .advatages_content_div{
+        padding-left: 20px;
+    }
+}
+
+@media(max-width: 1216px){
+    .problem_resource_solution_h1{
+        padding-top: 260px;
+    }
+    .problem_resource_header h2{
+        padding-top: 20px;
+    }
+}
+@media(max-width:1150px){
+    .problem_resource_solution_h1{
+        padding-top: 300px;
+    }
+}
+
+@media(max-width:1118px){
+    .problem_resource_solution_h1{
+        padding-top: 360px;
+    }
+}
+
+@media(max-width:1090px){
+    .problem_resource_solution_h1{
+        padding-top: 400px;
+    }
+}
+
+@media(max-width:1078px){
+    .problem_resource_solution_h1{
+        padding-top: 450px;
+    }
+}
+
+@media(max-width:520px){
+    section{
+        padding: 0;
+    }
+    .tracker_content_problems_list, .tracker_content_advantages_list{
+        display: none;
+    }
+    .tracker{
+        background-position: right;
+        min-width: 100%;
+        height: 100px;
+    }
+    .tracker_content{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    .tracker_logo_img{
+        max-width: 50px ;
+        padding: 0;
+        margin: 0;
+        margin-left: 10px;
+    }
+    .tracker_logo{
+        padding: 0 10px;
+        padding-top: 5px;
+    }
+    .tracker_logo h1{
+        font-size: 25px;
+    }
+    .tracker_content_problems, .tracker_content_problems_title, .tracker_content_advantages_title{
+        padding: 0;
+        font-size: 20px;
+        margin: 0;
+    }
+    .tracker_content_home_logo{
+        display: none;
+    }
+    .tracker_content_problems, .tracker_content_advantages{
+        margin-top: -3rem;
+        padding-top: 7px;
+    }
+    .tracker_content_problems{
+        padding-left: 100px;
+    }
+    .tracker_content_problems_title, .tracker_content_advantages_title{
+        font-size: 16px;
+    }
+    .tracker_content_home_logo_img{
+        max-width: 30px;
+        max-height: 30px;
+    }
+    .header{
+        background-position: -600px;
+    }
+    .header_title_h1{
+        font-size: 50px;
+        
+    }
+    .header_title{
+        padding-top: 100px;
+    }
+    .header_title_p{
+        font-size: 16px;
+        max-width: 300px;
+    }
+    .header_description{
+        max-width: 267px;
+        font-size: 16px;
+        
+    }
+    .problem_resource_description_img{
+        max-width:300px ;
+        margin-left: 1.8rem;
+        margin-top: 3rem;
+        max-height: 250px;
+    }
+    .problem_resource_solution{
+        margin-top: 10rem;
+    }
+    .problem_resource_description{
+        display: flex;
+        flex-direction: column;
+
+    }
+    .problem_resource_header h1{
+        font-size: 27px; 
+        max-width: max-content;
+    }
+    .problem_resource_header h2{
+        font-size: 24px;
+    }
+    .problem_resource_description_cause, .problem_resource_description_impact, .problem_resource_solution_description_1 p, .problem_resource_solution_description_2 p{
+        font-size: 27px;
+        
+    }
+    .problem_energy_h1{
+        font-size: 39px;
+    }
+    .problem_energy_content_description{
+        font-size: 17px;
+        max-width: 300px;
+        padding: 10px 0;
+    }
+    .problem_energy_solution_description{
+        display: flex;
+        flex-direction: column;
+    }
+    .problem_energy_solution_description_c1{
+        padding-bottom: 30px;
+
+    }
+    .problem_energy_solution_description_c1, .problem_energy_solution_description_c2{
+        text-align: center;
+    }
+    .problem_resource_solution_description_1 strong, .problem_resource_solution_description_2 strong{
+        font-size: 30px;
+    }
+    .problem_energy_content_description strong{
+        font-size: 19px;
+        
+    }
+    .problem_energy_content{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .problem_e-waste_content, .problem_e-waste_solution{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .problem_e-waste_content img{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .problem_e-waste_solution_img2{
+        display: flex;
+        align-items: center;
+    }
+    .problem_e-waste_solution_img{
+        display: none;
+    }
+    .advantages_content_1, .advantages_content_2, .advantages_content_3{
+        display: flex;
+        flex-direction: column;
+    }
+    .advantages_content_h4{
+        font-size: 40px;
+        max-width: 100%;
+    }
+    .footer_block_contact h1{
+        font-size: 39px;
+        text-align: left;
+    }
+    .footer_block{
+        display: flex;
+        flex-direction: column;
+        align-items: left;
+        padding: 30px 40px;
+    }
+    .footer_block_line{
+        display: none;
+        rotate: 90deg;
+        align-items: center;
+        margin-left: 159px;
+        margin-top: 20px;
+        margin-bottom: -150px;
+    }
+    .footer_block_contact p{
+        margin-top: -17px;
+        margin-bottom: 40px;
+    }
+    .footer_block_number, .footer_block_email, .footer_block_location{
+        padding-bottom: 10px;
+    }
+    
+}
