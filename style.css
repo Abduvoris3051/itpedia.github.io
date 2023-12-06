@@ -18,6 +18,9 @@ body{
     font-family: Monospace;
 
 }
+strong{
+    font-weight: 0;
+}
 button{
     padding: 0;
     border: none; 
@@ -147,9 +150,8 @@ ul li:hover {
     height: 342px;
     flex-shrink: 0;
     color: #EAEAEA;
-    font-size: 36px;
+    font-size: 28px;
     font-style: normal;
-    font-weight: 600;
     line-height: normal;
     padding-left: 54px;
     margin-top: -80px;
@@ -193,14 +195,14 @@ ul li:hover {
     display:flex;
     flex-direction: column;
     color: #EAEAEA;
-    font-size: 32px;
+    font-size: 22px;
     font-style: normal; 
 }
-.problem_resource_description_case strong {
-    font-style: italic;
-    font-weight: 600;
-}
 
+.problem_resource_description_cause{
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
 
 .problem_resource_description_img{
     width: 406px;
@@ -210,7 +212,8 @@ ul li:hover {
 }
 
 .problem_resource_solution{
-    padding-top: 170px;
+    padding-top: 50px;
+    margin-bottom: 20px;
 }
 
 .problem_resource_solution_h1{
@@ -224,7 +227,7 @@ ul li:hover {
 
 .problem_resource_solution_description p{
     color: #EAEAEA;
-    font-size: 32px;
+    font-size: 22px;
     font-style: normal;
     font-weight: 300;
     line-height: normal;
@@ -271,7 +274,7 @@ ul li:hover {
 .problem_energy_content_description{
     width: 521px;
     color: #EAEAEA;
-    font-size: 27px;
+    font-size: 22px;
     font-style: normal;
     font-weight: 200;
     line-height: normal;
@@ -281,7 +284,7 @@ ul li:hover {
 .problem_energy_content_description strong{
     color: #EAEAEA;
     text-align: center;
-    font-size: 30px;
+    font-size: 28px;
     font-style: italic;
     font-weight: 600;
     line-height: normal;
@@ -323,14 +326,14 @@ ul li:hover {
 .problem_energy_solution_description_c1{
     max-width: 578px;
     color: #EAEAEA;
-    font-size: 30px;
+    font-size: 22px;
     font-style: normal;
     font-weight: 300;
     line-height: normal;
 }
 .problem_energy_solution_description_c1 strong, .problem_energy_solution_description_c2 strong{
     color: #EAEAEA;
-    font-size: 30px;
+    font-size: 22px;
     font-style: italic;
     font-weight: 600;
     line-height: normal;
@@ -338,7 +341,7 @@ ul li:hover {
 .problem_energy_solution_description_c2{
     max-width: 578px;
     color: #EAEAEA;
-    font-size: 30px;
+    font-size: 22px;
     font-style: normal;
     font-weight: 300;
     line-height: normal;
@@ -385,7 +388,7 @@ x
 .problem_e-waste_content_description{
     max-width: 414px;
     color: #EAEAEA;
-    font-size: 27px;
+    font-size: 22px;
     font-style: normal;
     font-weight: 300;
     line-height: normal;
@@ -426,7 +429,7 @@ x
 .problem_e-waste_solution_description{
     max-width: 635px;
     color: #EAEAEA;
-    font-size: 30px;
+    font-size: 22px;
     font-style: normal;
     font-weight: 300;
     line-height: normal;
@@ -495,7 +498,7 @@ x
 
 .advantages_content_p{
     color: #EAEAEA;
-    font-size: 32px;
+    font-size: 22px;
     font-style: normal;
     font-weight: 300;
     line-height: normal;
