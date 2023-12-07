@@ -242,5 +242,7 @@
     .footer_block_number, .footer_block_email, .footer_block_location{
         padding-bottom: 10px;
     }
-    
+    .picture_group{
+        max-width: 400px;
+    }
 }
